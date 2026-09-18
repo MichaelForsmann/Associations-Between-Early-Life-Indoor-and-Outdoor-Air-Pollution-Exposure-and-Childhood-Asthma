@@ -27,7 +27,8 @@ The pickle files structure can easierly be seen after running one of the example
 ## Pipeline 
 ![plot](https://github.com/MichaelForsmann/Predicting-asthma-from-Early-life-Cumulative-indoor-and-outdoor-exposures/blob/main/Plots/Untitled-Diagram.drawio(1).png)
 ## Plots and performence to estimate general function for seasonality of the gases and particles
-![plot](https://github.com/MichaelForsmann/Predicting-asthma-from-Early-life-Cumulative-indoor-and-outdoor-exposures/blob/main/Plots/all_exposures.png)
+![plot](https://github.com/MichaelForsmann/Predicting-asthma-from-Early-life-Cumulative-indoor-and-outdoor-exposures/blob/main/Plots/arviz_adjusted.png)
+![plot](https://github.com/MichaelForsmann/Predicting-asthma-from-Early-life-Cumulative-indoor-and-outdoor-exposures/blob/main/Plots/Shap_12_adjusted.png)
 ### References 
 - [Pyro: bingham2019pyro:](https://arxiv.org/abs/1810.09538) 
 - [Scipy: 2020SciPy-NMeth:](https://www.nature.com/articles/s41592-019-0686-2)
